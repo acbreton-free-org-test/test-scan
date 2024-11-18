@@ -1,3 +1,3 @@
 # test-scan
 
-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
+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
